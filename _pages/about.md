@@ -17,11 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<!-- <div class="row">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% responsive_image path: assets/img/logo_1.jpg title: "example image" class: "img-fluid rounded z-depth-1" %}
     </div>
-</div> -->
+</div>
 
 <p> </p>
 <p> Welcome to FFSVC 2022! The success of FFSVC2020 indicates that more and more researchers are paying attention to the far-field speaker verification task. In this year, the challenge still focuses on the far-field speaker verification task and provides a new far-field development and test set collected by real speakers in complex environments under multiple conditions, e.g., text-dependent, text-independent, cross-channel enroll/test, etc. In addition, in-domain training speech data may be unlabeled, which is difficult to fine-tune the pre-trained model. Therefore, a new focus of this year is cross-language self-supervised / semi-supervised learning, where participants are allowed to use the unlabeled train and dev set of the in-domain FFSVC2020 dataset (in Mandarin) and the labeled out-of-domain VoxCeleb 1&2 dataset (mostly in English) to build the model.</p>
