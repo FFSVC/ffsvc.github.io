@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ffsvc.github.iohttps://ffsvc.github.io/sitemap.xml
+Sitemap: https://ffsvc.github.io/sitemap.xml
